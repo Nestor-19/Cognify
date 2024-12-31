@@ -9,4 +9,4 @@ export const globalSlice = createSlice({
 });
 
 export const {} = globalSlice.actions;
-export defualt globalSlice.reducer;
+export default globalSlice.reducer;
